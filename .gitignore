@@ -1,0 +1,17 @@
+# Data
+data/*.csv
+data/*.zip
+data/kfall/
+*.zip
+
+# Model outputs
+*.tflite
+*.h5
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Colab
+.config/
