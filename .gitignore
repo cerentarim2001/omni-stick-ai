@@ -3,6 +3,7 @@ data/*.csv
 data/*.zip
 data/kfall/
 *.zip
+kaggle.json
 
 # Model outputs
 *.tflite
