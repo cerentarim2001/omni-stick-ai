@@ -24,8 +24,7 @@ short access request before download.
 1. Open `notebooks/fall_detection.ipynb` in Colab:
    `colab.research.google.com/github/cerentarim2001/omni-stick-ai/blob/main/notebooks/fall_detection.ipynb`
 2. Update `KFALL_ZIP_PATH` in Step 2 to point to your uploaded KFall zip in Google Drive.
-3. Run top to bottom. Cells marked ⚠️ need small tweaks once you've inspected KFall's real
-   column names and label format (Step 3 shows you what to expect).
+3. Run top to bottom. 
 
 ## Pushing changes back from Colab
 
